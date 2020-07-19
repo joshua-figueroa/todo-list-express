@@ -1,6 +1,6 @@
 # To-do list web app using Node.js + Express
 
-A simple to do list made with Node.js, ExpressJS, EJS, MongoDB, and Mongoose.
+A simple to-do list made with Node.js, ExpressJS, EJS, MongoDB, and Mongoose.
 
 ## Hidden list
 
